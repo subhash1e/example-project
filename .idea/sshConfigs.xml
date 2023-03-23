@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" id="8fd18cf6-2441-4234-a713-0cce0f158224" customName="github" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="github" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
