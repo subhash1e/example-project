@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-
-<html>
-
-<head>
-
-<title>Embed PHP in a .html File</title>
-
-</head>
-
-<body>
-
-<h1><?php echo "Hello World" ?></h1>
 
 
 
@@ -57,8 +44,5 @@ if(isset($_POST['authkey'])&&($_POST['authkey'] == 'abc')) {
 }else{
     echo "Error in auth";
 }
-?>
-    
-</body>
 
-</html>
+
